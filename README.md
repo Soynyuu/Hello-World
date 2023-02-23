@@ -1,2 +1,2 @@
-# 初心に帰ろう
-RustでHelloWorldを出力するプログラム
+# 初心に、帰ろう。
+RustでHelloWorldを出力するだけのプログラム
